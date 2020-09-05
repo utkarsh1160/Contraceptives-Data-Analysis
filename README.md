@@ -1,7 +1,7 @@
 # Contraceptives-Data-Analysis
 This project analyses a dataset to determine a correlation between women’s age and their use of contraceptives. It also predicts the use of contraceptives based on some attributes.
 
-#Introduction
+# Introduction
 
 To measure the effectiveness of Indonesia’s National Family Planning Program and subsequently improve the program, the National Indonesia Contraceptive Prevalence Survey (NICPS) collected data on fertility and family planning in 1987. The survey was designed to simultaneously measure contraceptive prevalence and fertility, and the factors that influence these outcomes, such as education and availability of contraceptives. We used the data from this survey, retrieved from the UCI Machine Learning Repository, for our final project.
 
@@ -11,7 +11,7 @@ Our dataset is divided into two tables: participant and family_background. The p
 
 The family background table provides information on a woman’s husband’s characteristics along with other demographics like media exposure and standard of living. The variables we explore further are Husband education and Husband occupation. Husband education gives us the level of each participant’s husband’s education from 1 to 4, 1 being low and 4 being high. Husband occupation describes the occupation the husband is involved in based on predefined categories, 1 being professional, technical or clerical work; 2 being sales/services; 3 being manual labor and 4 being agriculture. Both of these variables are categorical.
 
-#Hypothesis Testing and Prediction Questions
+# Hypothesis Testing and Prediction Questions
 
 By combining both of the tables in this dataset, we can study the relationships between a participants' demographics, husband's lifestyle, and her contraception usage. We are particularly interested in exploring how a wife's age may be associated with her use of a contraceptive.
 
